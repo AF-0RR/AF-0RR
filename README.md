@@ -99,13 +99,10 @@
 
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AF-0RR&theme=radical)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=AF-0RR&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### 🌱 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AF-0RR&theme=radical&hide_border=true)  
-
-</div>
+[![AF-0RR's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AF-0RR&theme=radical&hide_border=true)](https://github.com/AF-0RR)
 
 ### 🚀 Projets complétés 
 ![Projets complétés](https://img.shields.io/badge/Projets%20complétés-5-blue)
