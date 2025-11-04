@@ -34,7 +34,7 @@
 
 <div align="center"><br>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htF-YA&layout=compact&theme=radical&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AF-0RR&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -95,15 +95,15 @@
 ## 🌟Add-ons
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=htF-YA&theme=onedark&column=7&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AF-0RR&theme=onedark&column=7&margin-w=15&margin-h=15)
 
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=htF-YA&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AF-0RR&theme=radical)
 
 
 ### 🌱 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=htF-YA&theme=radical&hide_border=true)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AF-0RR&theme=radical&hide_border=true)  
 
 </div>
 
@@ -114,7 +114,7 @@
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=dev)
 
 ### 🎮 Mini jeu 
-[Joue à TicTacToe en ligne](https://replit.com/@htF-YA/TicTacToe) !<br><br>
+[Joue à TicTacToe en ligne](https://replit.com/@AF-0RR/TicTacToe) !<br><br>
 ![TicTacToe](player.gif)
 
 ## 🌐 Languages I Speak
@@ -146,7 +146,7 @@
 <div align="center">
   
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=htF-YA&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=AF-0RR&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
 
